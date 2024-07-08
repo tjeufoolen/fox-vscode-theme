@@ -1,0 +1,25 @@
+{
+  "name": "fox",
+  "displayName": "Fox VSCode Theme",
+  "description": "A simple fox orange vscode color theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjeufoolen/fox-vscode-theme.git"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fox-color-theme.json"
+      }
+    ]
+  }
+}
