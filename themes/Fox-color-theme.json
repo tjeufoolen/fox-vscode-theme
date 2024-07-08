@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Fox",
+  "name": "Fox VSCode Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {

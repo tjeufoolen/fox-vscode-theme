@@ -1,18 +1,22 @@
 # Fox VSCode Theme
 
-A simple fox orange vscode color theme
+A simple fox orange vscode color theme ![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-grey?style=flat&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dtjeufoolen.fox-vscode-theme)
 
-## Working with Markdown
+## Getting Started
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Clone this project
+2. Make changes in `themes/Fox-color-theme.json`
+3. Use `vsce package`
+4. Use `vsce publish`
+5. The changes have been pushed and will be visible in ~5minutes 😍
 
 ## For more information
 
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## Authors
+
+- [Tjeu Foolen](https://github.com/tjeufoolen)
 
 **Enjoy!**
