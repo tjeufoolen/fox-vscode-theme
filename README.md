@@ -1,6 +1,6 @@
 # Fox VSCode Theme
 
-A simple fox orange vscode color theme ![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-grey?style=flat&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dtjeufoolen.fox-vscode-theme)
+A simple fox orange vscode color theme
 
 ## Getting Started
 
